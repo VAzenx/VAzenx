@@ -7,17 +7,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Tech you’re learning]**
-- 👯 I’m looking to collaborate on **[Open Source / Freelance / Cool Projects]**
-- 🤝 I’m looking for help with **[Topic you’re exploring]**
-- 📫 How to reach me: **your@email.com**
-- ⚡ Fun fact: *[Something cool about you]*
-
----
-
 ### 🛠️ Languages and Tools
 
 <p>
@@ -33,14 +22,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vazenx&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vazenx&theme=radical" />
 </p>
 
 ---
-
-### 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
